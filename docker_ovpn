@@ -1,3 +1,4 @@
+#!/bin/bash
 CLIENTNAME="$1"
 
 if [ -z "$CLIENTNAME" ];

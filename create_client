@@ -1,3 +1,4 @@
+#!/bin/bash
 HOST="$1"
 CLIENTNAME="$2"
 USAGE="\nUsage:\n    ./create_client <HOST> <CLIENTNAME>"
